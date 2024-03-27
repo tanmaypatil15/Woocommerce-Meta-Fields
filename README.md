@@ -1,2 +1,2 @@
 # Woocommerce-Meta-Fields-API
-Added woocommerce products meta field to its default products api.
+Adds woocommerce products metadata to Default WooCommerce Products API response.
